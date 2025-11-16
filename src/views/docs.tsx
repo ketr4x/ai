@@ -302,7 +302,7 @@ export const Docs = ({
               <code class="text-sm">/proxy/v1/models</code>
             </div>
             <p class="text-gray-600 dark:text-gray-400 mb-4">
-              List all available models. No authentication required.
+              List all available models.
             </p>
 
             <h4 class="font-semibold mb-2">Example Request</h4>
